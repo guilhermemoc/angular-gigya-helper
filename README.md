@@ -1,3 +1,7 @@
+Angular + TypeScript implementation for Gigya Web-SDK
+
+
+
 # Example Usage
 
 ---
